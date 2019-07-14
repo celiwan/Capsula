@@ -1,0 +1,8 @@
+[Desktop Entry]
+Endocing = UTF-8
+Name = Capsula
+TryExec = lxterminal
+Exec = sudo python3 /home/pi/Desktop/Capsula/main.py
+Icon = /home/pi/Desktop/Capsula/Icon/logo-capsula.png
+Type = Application
+Categories = GUI
